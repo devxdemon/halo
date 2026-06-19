@@ -1,12 +1,11 @@
 {
-	"name": "Hello Extensions of the world",
-	"description": "Base Level Extension",
+	"name": "Tansy",
+	"description": "Hide partnership section in tanstack docs",
 	"version": "1.0",
 	"manifest_version": 3,
 	"icons": {
 		"16": "src/assets/icon-16.png"
 	},
-	"permissions": ["tabs"],
 	"action": {
 		"default_icon": "src/assets/icon-16.png"
 	},
